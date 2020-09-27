@@ -7,7 +7,7 @@
   <img alt="Material-UI" src="https://img.shields.io/badge/material%20ui%20-%230081CB.svg?&style=for-the-badge&logo=material-ui&logoColor=white"/>
   <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
   <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
-<img alt="APM" src="https://img.shields.io/apm/l/asd?color=red&label=python&logo=phyton&logoColor=py">
+  <img alt="CSS" src="https://img.shields.io/badge/-CSS-CC6666?style=for-the-badge&logo=css&logoColor=white" />
 </p>
 
 <!--
