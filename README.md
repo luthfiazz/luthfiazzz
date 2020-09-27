@@ -1,5 +1,7 @@
 ### Hi there, I'm Luthfi, I write code and develop web application
 
+https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR>
+
 <!--
 **luthfiazzz/luthfiazzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
